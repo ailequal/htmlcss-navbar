@@ -5,11 +5,43 @@
   border: 0px;
 }
 
+body {
+
+}
+
 /* header */
-/* empty */
+nav {
+  position: relative;
+}
+
+ul {
+  padding: 0;
+  background-color: blue;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+a {
+
+}
+
+img {
+
+}
 
 /* main */
-/* empty */
+main {
+  width: 80%;
+  margin: 20px auto;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
 
 /* footer */
 /* empty */
